@@ -42,6 +42,19 @@ Retail-Sales-Analysis/
 - Removed duplicate records
 - Saved cleaned dataset
 
+- # Task 2 - Exploratory Data Analysis & Business Intelligence
+
+This task includes:
+- Descriptive Statistics
+- SQL Business Questions
+- Multivariate Analysis
+- Dashboard Mockup
+  
+# Tools:
+ - Ms Excel
+ - Jupyter Notebook
+ - MySql
+
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -63,7 +76,6 @@ Retail-Sales-Analysis/
 ---
 
 ## 🚀 Future Work
-- Task-2: Exploratory Data Analysis (EDA)
 - Task-3: Data Visualization
 - Task-4: Dashboard Development
 - Task-5: Final Report & Insights
