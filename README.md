@@ -50,7 +50,7 @@ This task includes:
 - Multivariate Analysis
 - Dashboard Mockup
 
-✅ Task 3 — Deep-Dive Analysis & Interactive Dashboard
+- #  Task 3 — Deep-Dive Analysis & Interactive Dashboard
 
 -Defined 5 core KPIs: Total Sales, Total Profit, Profit Margin %, Average Order Value, and Total Orders
 -Performed deep-dive analysis across categories, regions, and customer segments
