@@ -74,7 +74,10 @@ This task includes:
 - NumPy
 - Jupyter Notebook
 - GitHub
-
+- Power BI
+- Ms Excel
+- Mysql
+  
 ---
 
 ## 📊 Skills Demonstrated
