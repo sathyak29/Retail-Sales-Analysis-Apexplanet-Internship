@@ -50,7 +50,18 @@ This task includes:
 - Multivariate Analysis
 - Dashboard Mockup
 
----
+✅ Task 3 — Deep-Dive Analysis & Interactive Dashboard
+
+-Defined 5 core KPIs: Total Sales, Total Profit, Profit Margin %, Average Order Value, and Total Orders
+-Performed deep-dive analysis across categories, regions, and customer segments
+-Identified discount threshold — discounts above 30% consistently result in negative profit
+-Found Technology as the highest-margin category (~17%) and Furniture as the lowest (~2.5%)
+-Built a 3-page interactive Power BI dashboard: Summary, Deep-Dive Analysis, and Trends
+-Added a 6-month sales forecast on the Trends page
+
+🔗 Live Power BI Dashboard
+
+
 
 ## 🛠 Tools & Technologies Used
 - Python
