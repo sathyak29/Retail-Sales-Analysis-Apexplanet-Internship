@@ -67,6 +67,16 @@ This task includes:
 🔗 Live Power BI Dashboard- https://1drv.ms/u/c/54bcfb4e69e65481/IQB5bVHg4zfrRazoFZjQ0V9gAUt_tMcbdcPbdCjw_Mx2VqQ?e=WYWTlP
 
 
+## 📊 Task-4: Data Storytelling & Statistical Validation
+- Identified business problems
+- Analyzed discount impact on profit
+- Compared category profitability
+- Analyzed regional performance
+- Performed hypothesis testing
+- Generated business recommendations
+- Created final presentation
+
+
 
 ## 🛠 Tools & Technologies Used
 - Python
@@ -92,7 +102,6 @@ This task includes:
 ---
 
 ## 🚀 Future Work
-- Task-4: Dashboard Development
 - Task-5: Final Report & Insights
 
 ---
