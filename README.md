@@ -76,6 +76,8 @@ This task includes:
 - Generated business recommendations
 - Created final presentation
 
+ ## 📊 Task-5: 
+              Final presentation
 
 
 ## 🛠 Tools & Technologies Used
@@ -98,11 +100,6 @@ This task includes:
 - Data Type Handling
 - Exploratory Data Understanding
 - GitHub Project Structuring
-
----
-
-## 🚀 Future Work
-- Task-5: Final Report & Insights
 
 ---
 
